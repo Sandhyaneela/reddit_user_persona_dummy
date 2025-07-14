@@ -1,0 +1,22 @@
+User Persona for kojied
+
+- **Name:** Kieran O’Brien
+  *"I love hiking and photography"* → from comment
+
+- **Age Range:** 25–34
+  *"Back when college was wild..."* → from post
+
+- **Interests/Hobbies:** Hiking, photography, indie music
+  *"I listen to band X all the time"* → comment
+
+- **Personality Traits:** Friendly, reflective, slightly sarcastic
+  *"Haha, sarcasm intended!”* → comment
+
+- **Profession:** Recent graduate in Environmental Science
+  *"Just finished my MS in EnvSci"* → post
+
+- **Writing Style:** Casual, uses exclamation marks and emojis 😊
+  *"That’s awesome!!!"* → comment
+
+- **Political Leanings:** Environment-focused, progressive
+  *"We need clean air laws!"* → comment
